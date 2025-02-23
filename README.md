@@ -1,7 +1,13 @@
+# Sofle V2.1 RGB DIY from ErgoFrets (assembled by yours truly)
+![1](imgs/1.png)
+![2](imgs/2.png)
+![3](imgs/3.png)
+![4](imgs/4.png)
+![5](imgs/5.png)
+
+---
+
 # Default QMK firmware for ErgoFrets Sofle Keyboard
-
-![IMG_4107-min](https://github.com/Beato99/qmk-sofle/assets/121782036/4b2b54ee-6dae-495b-9ca5-f4f848a43b7c)
-
 If you're seeing this, that probably means that you have an [ErgoFrets Sofle Keyboard](https://www.etsy.com/listing/1273810417/sofle-keyboard)
 and you probably want to further customize it.
 
