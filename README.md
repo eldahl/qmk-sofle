@@ -1,4 +1,4 @@
-# Sofle V2.1 RGB DIY from ErgoFrets (assembled by yours truly)
+# Sofle V2.1 RGB DIY from ErgoFrets (assembled by me)
 ![1](imgs/1.png)
 ![2](imgs/2.png)
 ![3](imgs/3.png)
