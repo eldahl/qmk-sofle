@@ -6,6 +6,7 @@ EXTRAKEY_ENABLE = yes
 VIA_ENABLE = yes
 LTO_ENABLE = yes
 RGBLIGHT_ENABLE = yes
+SERIAL_DRIVER = vendor
 
 # Do not enable USB_WAIT_FOR_ENUMERATION for shared split firmware:
 # the secondary RP2040 has no USB host and must be able to start without
